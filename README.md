@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @oxcrow
+- 👀 I’m interested in Computational Fluid Dynamics and Finite Element Analysis
